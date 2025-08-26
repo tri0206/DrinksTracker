@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drinks Tracker</string>
+    <string name="hello_world">Hello World</string>
+    <string name="water_goal">Water Goal</string>
+    <string name="sugar_limit">Sugar Limit</string>
+    <string name="caffeine_limit">Caffeine Limit</string>
+    <string name="add_drink">Add Drink</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="welcome">Welcome</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Theo Dõi Đồ Uống</string>
+    <string name="hello_world">Xin chào</string>
+    <string name="water_goal">Mục tiêu nước</string>
+    <string name="sugar_limit">Giới hạn đường</string>
+    <string name="caffeine_limit">Giới hạn caffeine</string>
+    <string name="add_drink">Thêm đồ uống</string>
+    <string name="settings">Cài đặt</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="welcome">Xin chào</string>
+</resources>
